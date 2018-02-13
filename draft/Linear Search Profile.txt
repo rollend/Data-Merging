@@ -1,0 +1,46 @@
+Linear Search Profile
+
+Line #    Mem usage    Increment   Line Contents
+================================================
+    82    107.0 MiB    107.0 MiB       @profile
+    83                                 def readJSON(self, filename):                       
+    84    107.0 MiB      0.0 MiB           ln = 0        
+    85    107.0 MiB      0.0 MiB           start = time.time()        
+    86    107.0 MiB      0.0 MiB           print(filename)
+    87    107.0 MiB      0.0 MiB           with open(filename, 'r') as f:
+    88    107.0 MiB      0.0 MiB               while True:                      
+    89    107.0 MiB      0.0 MiB                   try:
+    90    107.1 MiB      0.0 MiB                       for line in f:                        
+    91    107.1 MiB      0.0 MiB                           title, category, city, country, score = self.extract_inf_from_string(line)                        
+    92    107.1 MiB      0.0 MiB                           d = {"title":title, "category":category, "city":city, "country":country, "score":score}                        
+    93    107.1 MiB      0.0 MiB                           whole_pattern = '\"{}\": {{\"category\": {{\"\w*\": \d*}},\"country\": \"{}\", \"city\": \"{}\"'.format(title,country,city)                                           
+    94    107.1 MiB      0.0 MiB                           add = True
+    95    107.1 MiB      0.0 MiB                           add2 = True
+    96    107.1 MiB      0.0 MiB                           ln = ln+1                        
+    97                                                     
+    98    107.1 MiB      0.0 MiB                           self.update_progress(round(ln/self.length,3)) 
+    99    107.1 MiB      0.0 MiB                           print("Mergeing Successed Lines:{}".format(ln))
+   100                                                                                                                  
+   101    107.1 MiB      0.0 MiB                           if self.seen:
+   102    107.1 MiB      0.1 MiB                               self.seen = sorted(self.seen, key = lambda item:item["score"])
+   103                                                         
+   104    107.1 MiB      0.0 MiB                               add = self.linearSearch(d)                          
+   105                                                         """
+   106                                                         add2 = self.binarySearch(self.seen, 0, len(self.seen)-1, d)
+   107                                                         """
+   108    107.1 MiB      0.0 MiB                               if add:
+   109    107.1 MiB      0.0 MiB                                   self.seen.append(d)                                                                    
+   110                                                         else:                                
+   111                                                             continue
+   112    107.1 MiB      0.0 MiB                           if not self.seen:
+   113    107.0 MiB      0.0 MiB                               self.seen.append(d)                 
+   114    107.1 MiB      0.0 MiB                       end = time.time()
+   115    107.1 MiB      0.0 MiB                       print("Merging Time: {}".format(end-start))
+   116    107.1 MiB      0.0 MiB                       with open("Logging.txt", "a") as file:                                      
+   117    107.1 MiB      0.0 MiB                               file.write("File Name: {}, Total Lines: {}, Merging Time: {}".format(filename, ln, end-start)+"\n")
+   118    107.1 MiB      0.0 MiB                       self.seen = sorted(self.seen, key = lambda item:item["score"])
+   119    107.1 MiB      0.0 MiB                       test = self.seen
+   120    107.1 MiB      0.0 MiB                       return self.seen
+   121                                             except json.JSONDecodeError as e:
+   122                                                 print(e)
+   123                                                 continue   

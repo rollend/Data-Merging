@@ -1,0 +1,3 @@
+{"Airport A": {"category": {"infrastructure": 94}, "country": "Deutschland", "city": "Munich"}}
+{"Airport A": {"category": {"infrastructure": 95}, "country": "Deutschland", "city": "Munice"}}
+{"Airport B": {"category": {"Airport": 88}, "country": "Deutschland", "city": "Munich"}}

@@ -1,0 +1,64 @@
+{"Terminal Tower Tallest building in the United States outside of New York City": {"category": {"education_science": 36}, "country": "United States of America", "city": "Meadow"}}
+{"Ralph Bristol House": {"category": {"residential": 38}, "country": "United States of America", "city": "Ogden"}}
+{"Reed's Creek Farm": {"category": {"landscaping": 32}, "country": "Costa Rica", "city": "San Juan"}}
+{"Western Line, Auckland": {"category": {"agriculture": 49}, "country": "New Zealand", "city": "Auckland"}}
+{"Brampton Jail (Gaol)": {"category": {"public_service_administration": 33}, "country": "Canada", "city": "Brampton"}}
+{"Hoard's Dairyman Farm": {"category": {"office": 34}, "country": "United States of America", "city": "Norfolk"}}
+{"Wood Wharf": {"category": {"residential": 86}, "country": "United Kingdom", "city": "London"}}
+{"Moscow Kiyevskaya": {"category": {"commercial": 37}, "country": "Russian Federation", "city": "Moscow"}}
+{"Airfield information Yeager Air National Guard Station Charleston Air National Guard Base": {"category": {"residential": 70}, "country": "United States of America", "city": "Mashpee"}}
+{"Yanmar Stadium Nagai Koshien Bowl Football at the East Asian Games Athletics at the East Asian Games...": {"category": {"sport": 60}, "country": "Japan", "city": "Osaka"}}
+{"Cominco Arena": {"category": {"culture_event": 99}, "country": "Canada", "city": "Gasp\u00e9"}}
+{"David Broderick Tower": {"category": {"agriculture": 32}, "country": "United States of America", "city": "Detroit"}}
+{"Jamestown Armory": {"category": {"residential": 37}, "country": "United States of America", "city": "Jamestown"}}
+{"Old Sacramento Historic District": {"category": {"other": 50}, "country": "United States of America", "city": "Sacramento"}}
+{"Broad Street Presbyterian Church": {"category": {"historical_religious": 99}, "country": "United States of America", "city": "Birmingham"}}
+{"Mountain Street": {"category": {"commercial": 32}, "country": "United States of America", "city": "Blacksburg"}}
+{"State Highway 37 (Uttar Pradesh)": {"category": {"other": 50}, "country": "India", "city": "Gurgaon"}}
+{"U.S. Court of Appeals-Fifth Circuit": {"category": {"public_service_administration": 99}, "country": "United States of America", "city": "New Orleans"}}
+{"Normal Park branch": {"category": {"public_service_administration": 35}, "country": "United States of America", "city": "Chicago"}}
+{"Campanile and Judson Hall Judson Memorial Church,": {"category": {"infrastructure": 36}, "country": "United States of America", "city": "New York City"}}
+{"Palasport Primo Carnera": {"category": {"education_science": 37}, "country": "Italy", "city": "Sarno"}}
+{"Okehocking Historic District": {"category": {"other": 50}, "country": "United States of America", "city": "Willistown Township"}}
+{"Cooper Arms": {"category": {"health": 49}, "country": "Pakistan", "city": "Chak"}}
+{"Illinois Route 135": {"category": {"historical_religious": 39}, "country": "Sri Lanka", "city": "Trincomalee"}}
+{"Little Castle House": {"category": {"agriculture": 41}, "country": "United Kingdom", "city": "Monmouth"}}
+{"Shimonuma Station": {"category": {"historical_religious": 37}, "country": "Japan", "city": "Horonobe"}}
+{"Rio Vista Bridge Sacramento River Bridge Helen Madere Memorial Bridge": {"category": {"residential": 49}, "country": "Lithuania", "city": "Neringa"}}
+{"Wyoming Highway 159": {"category": {"infrastructure": 58}, "country": "United States of America", "city": "Torrington"}}
+{"Icono Tower": {"category": {"infrastructure": 37}, "country": "Paraguay", "city": "Asuncion"}}
+{"First Church of Christ Scientist": {"category": {"sport": 43}, "country": "United States of America", "city": "Phoenix"}}
+{"Estadio Municipal Los Arcos": {"category": {"industrial": 38}, "country": "Spain", "city": "Orihuela"}}
+{"River Mill Hydroelectric Project": {"category": {"historical_religious": 42}, "country": "United States of America", "city": "Dennis Township"}}
+{"Altes Stadthaus": {"category": {"commercial": 41}, "country": "Germany", "city": "Brandenburg an der Havel"}}
+{"Elmira/Corning Regional Airport": {"category": {"health": 39}, "country": "United States of America", "city": "Horseheads"}}
+{"Beth Israel": {"category": {"historical_religious": 99}, "country": "Canada", "city": "Halifax"}}
+{"Kintore": {"category": {"other": 30}, "country": "United Kingdom", "city": "Ellon"}}
+{"Monroe Center Historic District": {"category": {"sport": 30}, "country": "Cuba", "city": "Guira de Melena"}}
+{"link=Metr\u00f4 Rio|24px|left Largo do Machado link=Metr\u00f4 Rio|24px|leftLargo do Machado": {"category": {"other": 30}, "country": "Brazil", "city": "Rio de Janeiro"}}
+{"Frank Harold Shaw Big Conestoga Creek Bridge No. 12 Big Conestoga Creek Bridge No. 12, Spanning Cone...": {"category": {"infrastructure": 85}, "country": "United States of America", "city": "La Rue"}}
+{"William Claussen House": {"category": {"historical_religious": 41}, "country": "United States of America", "city": "Davenport"}}
+{"Polk County Courthouse": {"category": {"agriculture": 40}, "country": "United States of America", "city": "Ogden"}}
+{"Clark Boulevard": {"category": {"residential": 47}, "country": "United States of America", "city": "Fort Smith"}}
+{"Flughafen Berlin Brandenburg": {"category": {"other": 50}, "country": "Germany", "city": "Sch\u00f6nefeld"}}
+{"Henry B. Dickson House": {"category": {"public_service_administration": 42}, "country": "United States of America", "city": "Mocksville"}}
+{"Bligh Building/Pacific Building": {"category": {"culture_event": 97}, "country": "United States of America", "city": "Salem"}}
+{"Glasgow Empire": {"category": {"commercial": 34}, "country": "United States of America", "city": "Glasgow"}}
+{"Burlington station": {"category": {"infrastructure": 99}, "country": "United States of America", "city": "Burlington"}}
+{"The Rolls Hall": {"category": {"culture_event": 96}, "country": "United Kingdom", "city": "Monmouth"}}
+{"Camp Pendleton-State Military Reservation Historic District": {"category": {"culture_event": 35}, "country": "United States of America", "city": "Miami"}}
+{"McVille Municipal Airport": {"category": {"health": 45}, "country": "United States of America", "city": "McVille"}}
+{"Palogrande Stadium": {"category": {"sport": 60}, "country": "Colombia", "city": "Manizales"}}
+{"Needham Town Hall Historic District": {"category": {"culture_event": 44}, "country": "United States of America", "city": "Needham"}}
+{"Mexican Federal Highway 162": {"category": {"culture_event": 44}, "country": "Italy", "city": "Milan"}}
+{"St Mary's Church, Anstey": {"category": {"historical_religious": 99}, "country": "United Kingdom", "city": "Charnwood"}}
+{"Jefferson College": {"category": {"education_science": 97}, "country": "United States of America", "city": "Washington"}}
+{"Chilton County Airport Airfield photos from U.S. Civil Air Patrol": {"category": {"infrastructure": 90}, "country": "United States of America", "city": "Clanton"}}
+{"\u5927\u5267\u9662 Grand Theater": {"category": {"infrastructure": 99}, "country": "China", "city": "Shenzhen"}}
+{"Coral Way": {"category": {"education_science": 37}, "country": "United States of America", "city": "Wichita"}}
+{"Signal Mountain Lodge": {"category": {"hospitality": 99}, "country": "Pakistan", "city": "National Colony"}}
+{"Samuel Gompers Memorial": {"category": {"office": 39}, "country": "Colombia", "city": "Espinal"}}
+{"Walker Tavern": {"category": {"culture_event": 93}, "country": "United States of America", "city": "Ferrysburg"}}
+{"Towne Centre Drive Harlem\u2013Grovetown Road Hereford Farm Road": {"category": {"infrastructure": 83}, "country": "United Kingdom", "city": "North Norfolk"}}
+{"Manitoba Highway 15": {"category": {"landscaping": 36}, "country": "Canada", "city": "Toronto"}}
+{"\u6768\u5bb6\u576a Yangjiaping": {"category": {"hospitality": 46}, "country": "China", "city": "Shanghai"}}

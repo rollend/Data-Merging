@@ -1,0 +1,29 @@
+==================================================
+Running Start at time: 2018-02-12 17:32
+Sorting Algorithm: Timsort; Searching Algorithm:BinarySearch
+File Name: draft/JSON example Data.txt, Total Lines: 18, Merging Time: 0.0010025501251220703
+File Name: draft/test100.txt, Total Lines: 1732, Merging Time: 0.3980591297149658
+Total Dumping Lines:1728
+Total time running dump: 0.01905035972595215 seconds
+Memory Usage: 95.12890625MB
+CPU Start Usage: scputimes(user=769562.75, system=52419.0, idle=4518377.5, interrupt=4260.015625, dpc=3224.265625)
+CPU End Usage: scputimes(user=769563.9375, system=52419.5, idle=4518379.5, interrupt=4260.015625, dpc=3224.265625)
+==================================================
+Running Start at time: 2018-02-12 17:32
+Sorting Algorithm: Timsort; Searching Algorithm:TernarySearch
+File Name: draft/JSON example Data.txt, Total Lines: 18, Merging Time: 0.0
+File Name: draft/test100.txt, Total Lines: 1732, Merging Time: 0.3813211917877197
+Total Dumping Lines:1728
+Total time running dump: 0.01905083656311035 seconds
+Memory Usage: 95.1484375MB
+CPU Start Usage: scputimes(user=769563.9375, system=52419.5, idle=4518379.5, interrupt=4260.015625, dpc=3224.265625)
+CPU End Usage: scputimes(user=769565.0625, system=52419.5, idle=4518381.5, interrupt=4260.015625, dpc=3224.296875)
+==================================================
+Running Start at time: 2018-02-12 17:52
+Sorting Algorithm: Timsort; Searching Algorithm:BinarySearch
+File Name: merging_challenge_data.json, Total Lines: 247497, Merging Time: 19239.354105472565
+Total Dumping Lines:135228
+Total time running dump: 0.7526736259460449 seconds
+Memory Usage: 92.23828125MB
+CPU Start Usage: scputimes(user=769716.5, system=52454.0, idle=4527452.0, interrupt=4263.890625, dpc=3228.828125)
+CPU End Usage: scputimes(user=815407.375, system=57143.0, idle=4631014.0, interrupt=4813.046875, dpc=3425.4375002384186)

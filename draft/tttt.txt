@@ -1,0 +1,14 @@
+{"''": {"category": {"historical_religious": 31}, "country": "United States of America", "city": "San Jos\u00e9"}}
+{"''": {"category": {"landscaping": 43}, "country": "United States of America", "city": "San Jos\u00e9"}}
+{"''": {"category": {"residential": 100}, "country": "United States of America", "city": "San Jos\u00e9"}}
+{"'' Alexandrovskaya": {"category": {"education_science": 32}, "country": "Russian Federation", "city": "Alexandrovskaya"}}
+{"'' Alexandrovskaya": {"category": {"infrastructure": 96}, "country": "Russian Federation", "city": "Alexandrovskaya"}}
+{"'' Alexandrovskaya": {"category": {"office": 36}, "country": "United Kingdom", "city": "Manchester"}}
+{"'' The New Library of Alexandria": {"category": {"residential": 38}, "country": "China", "city": "Shenzhen"}}																															   
+{"'' The New Library of Alexandria": {"category": {"education_science": 60}, "country": "Egypt", "city": "Alexandria"}}
+{"'' The New Library of Alexandria": {"category": {"other": 38}, "country": "United States of America", "city": "Springfield"}}
+{"''' 'The pioneer museum Pioneerimuseo Pioniermuseum \u041c\u0443\u0437\u0435\u0439 \u0441\u0430\u043f\u0435\u0440\u043d\u044b\u0445 \u0432\u043e\u0439\u0441\u043a (The Engineers Museum)'''": {"category": {"culture_event": 100}, "country": "Finland", "city": "Miehikk\u00e4l\u00e4"}}
+{"''' 'The pioneer museum Pioneerimuseo Pioniermuseum \u041c\u0443\u0437\u0435\u0439 \u0441\u0430\u043f\u0435\u0440\u043d\u044b\u0445 \u0432\u043e\u0439\u0441\u043a (The Engineers Museum)'''": {"category": {"health": 30}, "country": "Nigeria", "city": "Bida"}}
+{"''' 'The pioneer museum Pioneerimuseo Pioniermuseum \u041c\u0443\u0437\u0435\u0439 \u0441\u0430\u043f\u0435\u0440\u043d\u044b\u0445 \u0432\u043e\u0439\u0441\u043a (The Engineers Museum)'''": {"category": {"education_science": 41}, "country": "United States of America", "city": "Chicago"}}
+																																																																							
+						
